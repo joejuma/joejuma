@@ -1,4 +1,4 @@
-## Hi I'm Joseph
+## Hi, I'm Joseph
 I'm a senior software engineer, software consultant and AI researcher. I have 20 years of programming experience, 17 professionally, 8 in enterprise and 2 my own startup company. I like to work on a wide-range of technologies, ranging from full-stack applications to developer tooling and AI research.
 
 ## About Me
