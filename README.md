@@ -11,9 +11,9 @@ I'm a senior software engineer, software consultant and AI researcher. I have 20
 ## Technologies
 I have experience in:
 
-* Application Development (C++, OpenGL, Vulkan, SDL, libCURL)
-
 * Frontend Development (HTML, CSS, JavaScript, Node.js, React)
+
+* Application Development (C++, OpenGL, Vulkan, Python, Node.js, SDL, libCURL)
 
 * Backend Development (Express.js, Python, Flask, SQLite, Postgresql, MySQL, PHP, Apache, Docker, Kotlin)
 
