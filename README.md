@@ -1,31 +1,8 @@
-## Hi, I'm Joseph
-I'm a senior software engineer, software consultant and AI researcher. I have 20 years of programming experience, 17 professionally, 8 in enterprise and 2 my own startup company. I like to work on a wide-range of technologies, ranging from full-stack applications to developer tooling and AI research.
+## Introduction
+Hello, I'm Joseph Juma, a principal AI researcher. I've been programming for 20 years, and studying AI for 18. Recently I created Iki Software, an IP holding company for my AI patents. We're currently looking at early stage clients for our technology. I've also worked with a large range of technologies and across a variety of roles including front-end, fullstack, automation, tooling and infrastructure.
 
-## About Me
-✨ I'm the inventor of a brand new type of AI, called "SPC".
-
-🛠 I'm currently working on bringing SPC to the public, and consulting.
-
-⚙ I'm currently looking for new (remote) job opportunities, in frontend, fullstack or continuing my work in developer tooling.
-
-## Technologies
-I have experience in:
-
-* Frontend Development (HTML, CSS, JavaScript, Node.js, React)
-
-* Application Development (C++, OpenGL, Vulkan, Python, Node.js, SDL, libCURL)
-
-* Backend Development (Express.js, Python, Flask, SQLite, Postgresql, MySQL, PHP, Apache, Docker, Kotlin)
-
-* Cloud Software (AWS Lambda, EC2, S3, Cloudfront, Digital Ocean)
-
-* Automation Engineering (Selenium, Nightmare.js) 
-
-
-## Connect With Me
+## Socials
 [LinkedIn](https://linkedin.com/in/jjuma)
-
-[Twitter](https://twitter.com/ikishade)
 
 <!--
 **joejuma/joejuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
