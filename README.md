@@ -1,5 +1,5 @@
 ## Introduction
-Hello, I'm Joseph Juma, a principal AI researcher. I've been programming for 20 years, and studying AI for 18. Recently I created Iki Software, an IP holding company for my AI patents. We're currently looking at early stage clients for our technology. I've also worked with a large range of technologies and across a variety of roles including front-end, fullstack, automation, tooling and infrastructure.
+Hello, I'm Joseph Juma, a principal AI researcher. I've been programming for 20 years, and studying AI for 18. Recently I created [Iki Software](https://ikisoftware.com/), an IP holding company for my AI patents. We're currently looking at early stage clients for our technology. I've also worked with a large range of technologies and across a variety of roles including front-end, fullstack, automation, tooling and infrastructure.
 
 ## My GitHub
 Most of my work over the last few years is proprietary software that I don't push to GitHub, so this is a collection of past projects, miscellaneous research papers, scripts or weekend projects usually unrelated to my work.
