@@ -1,11 +1,18 @@
-## Introduction
-Hi, I'm Joseph, an AI researcher and software engineer. Recently, I created [Iki Software](https://ikisoftware.com/), an IP holding company for my AI patents. We're currently looking at early stage clients for our technology.
+Hi, I'm Joseph. I'm a principal software engineer and AI researcher with experience in frontend, fullstack, cloud, AI research and on-device inference systems.
 
-## My GitHub
-Most of my work over the last few years is proprietary software that I don't push to GitHub, so this is a collection of past projects, miscellaneous research papers, scripts or weekend projects usually unrelated to my work.
+## Recently,...
+* I founded [Iki Software](https://ikisoftware.com/), as an IP holding company for my work in causal-effective AI systems.
+* I've been consulting on AI/ML inference pipelines written in C++/Vulkan for on-device inference in memory constrained environments.
+
+## Previously..
+* I worked at AWS on Lambdas in 2016.
+* VMWare-Carbon Black on the EDR from 2019 to 2024.
 
 ## Contact
 Email: joseph@ikisoftware.com
+
+## My GitHub
+Most of my recent work is proprietary; so many of the visible projects are years old, or miscellaneous research papers, scripts or weekend endeavors.
 
 ## Socials
 [LinkedIn](https://linkedin.com/in/jjuma)
