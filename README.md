@@ -4,9 +4,9 @@ Hi, I'm Joseph. I'm a principal software engineer and AI researcher with experie
 * I founded [Iki Software](https://ikisoftware.com/), as an IP holding company for my work in causal-effective AI systems.
 * I've been consulting on AI/ML inference pipelines written in C++/Vulkan for on-device inference in memory constrained environments.
 
-## Previously..
+## Previously...
 * I worked at AWS on Lambdas in 2016.
-* VMWare-Carbon Black on the EDR from 2019 to 2024.
+* VMWare-Carbon Black on EDR from 2019 to 2024.
 
 ## Contact
 Email: joseph@ikisoftware.com
