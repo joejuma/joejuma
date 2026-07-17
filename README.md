@@ -15,6 +15,8 @@ Email: joseph@ikisoftware.com
 Most of my recent work is proprietary; so many of the visible projects are years old, or miscellaneous research papers, scripts or weekend endeavors.
 
 ## Socials
+[Personal Website](https://josephjuma.com/)
+
 [LinkedIn](https://linkedin.com/in/jjuma)
 
 <!--
