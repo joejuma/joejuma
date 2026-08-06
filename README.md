@@ -1,7 +1,8 @@
 Hi, I'm Joseph. I'm a principal software engineer and AI researcher with experience in frontend, fullstack, cloud, AI research and on-device inference systems.
 
 ## Recently,...
-* I founded [Iki Software](https://ikisoftware.com/), as an IP holding company for my work in causal-effective AI systems.
+* I founded [Iki Software](https://ikisoftware.com/), as an IP holding company for my work in software & AI.
+* I invented, filed patents on and am developing a brand new AI primitive ("SPC"). 
 * I've been consulting on AI/ML inference pipelines written in C++/Vulkan for on-device inference in memory constrained environments.
 
 ## Previously...
