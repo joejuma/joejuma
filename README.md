@@ -1,6 +1,6 @@
 ## Currently
-- Founder @ [Iki Software LLC](https://ikisoftware.com/) my personal IP holding company for patent-pending software & AI technologies.
-- Machine-Learning Consultant for AI/ML training and inference for automatic speech recognition ("ASR") technology.
+- Founder @ [Iki Software LLC](https://ikisoftware.com/), my personal IP holding company for patent-pending software & AI technologies.
+- Machine-Learning Consultant @ Undisclosed, on AI/ML training and inference for automatic speech recognition ("ASR") technology.
 
 ## Previously
 - Fullstack Engineer @ VMWare Carbon-Black on Endpoint Detection & Response ("EDR") (2022 - 2024).
