@@ -1,5 +1,5 @@
 ## Currently
-- Founder @ [Iki Software LLC](https://ikisoftware.com/), researching low-cost, privacy & artist respecting alternative AI technologies.
+- Founder & Research Engineer @ [Iki Software LLC](https://ikisoftware.com/), researching low-cost, privacy & artist respecting alternative AI technologies.
 - Machine-Learning Consultant @ Undisclosed, on AI/ML training and inference for automatic speech recognition ("ASR") technology.
 
 ## Previously
