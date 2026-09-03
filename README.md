@@ -1,24 +1,15 @@
-Hi, I'm Joseph. I'm a principal software engineer and AI researcher with experience in frontend, fullstack, cloud, AI research and on-device inference systems.
+## Currently
+- Founder @ [Iki Software LLC](https://ikisoftware.com/) my personal IP holding company for patent-pending software & AI technologies.
+- Machine-Learning Consultant for AI/ML training and inference for automatic speech recognition ("ASR") technology.
 
-## Recently,...
-* I founded [Iki Software](https://ikisoftware.com/), as an IP holding company for my work in software & AI.
-* I invented, filed patents on and am developing a brand new AI primitive ("SPC"). 
-* I've been consulting on AI/ML inference pipelines written in C++/Vulkan for on-device inference in memory constrained environments.
-
-## Previously...
-* I worked at AWS on Lambdas in 2016.
-* VMWare-Carbon Black on EDR from 2019 to 2024.
-
-## Contact
-Email: joseph@ikisoftware.com
-
-## My GitHub
-Most of my recent work is proprietary; so many of the visible projects are years old, or miscellaneous research papers, scripts or weekend endeavors.
+## Previously
+- Fullstack Engineer @ VMWare Carbon-Black on Endpoint Detection & Response ("EDR") (2022 - 2024).
+- Frontend Engineer @ VMWare Carbon-Black on EDR (2019 - 2022).
+- Web Development Engineer II @ AWS on AWS Lambda (2016).
 
 ## Socials
-[Personal Website](https://josephjuma.com/)
-
-[LinkedIn](https://linkedin.com/in/jjuma)
+- [Personal Website](https://josephjuma.com/)
+- [LinkedIn](https://linkedin.com/in/jjuma)
 
 <!--
 **joejuma/joejuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
