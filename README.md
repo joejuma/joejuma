@@ -1,12 +1,12 @@
 ## Currently
-- Founder & Research Engineer @ [Iki Software LLC](https://ikisoftware.com/), researching low-cost, privacy & artist respecting alternative AI technologies.
-- Machine-Learning Consultant @ Undisclosed, on AI/ML training and inference for automatic speech recognition ("ASR") technology.
+- Founder & Research Engineer @ [Iki Software LLC](https://ikisoftware.com/), researching the SPC-AI architecture. (2024 - Present)
+- Machine-Learning Consultant @ Undisclosed, on AI/ML training and inference for automatic speech recognition ("ASR") technology. (2025 - Present)
 
 ## Previously
-- Fullstack Engineer @ VMWare Carbon-Black on Endpoint Detection & Response ("EDR") (2022 - 2024).
-- Frontend Engineer @ VMWare Carbon-Black on EDR (2019 - 2022).
-- Web Development Engineer II @ AWS on AWS Lambda (2016).
-
+- Fullstack Engineer @ VMWare Carbon-Black on Endpoint Detection & Response ("EDR"). (2022 - 2024)
+- Frontend Engineer @ VMWare Carbon-Black on EDR. (2019 - 2022)
+- Frontend Engineer @ TerraVerde Energy. (2018)
+- Web Development Engineer II @ AWS on AWS Lambda. (2016)
 <!--
 **joejuma/joejuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
