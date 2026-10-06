@@ -1,6 +1,6 @@
 ## Currently
 - Founder & Research Engineer @ [Iki Software LLC](https://ikisoftware.com/), researching the SPC-AI architecture. (2024 - Present)
-- Machine-Learning Consultant @ Undisclosed, on AI/ML training and inference architecture. (2025 - Present)
+- Machine-Learning Consultant @ Signal, on AI/ML training and inference architecture. (2025 - Present)
 
 ## Previously
 - Fullstack Engineer @ VMWare Carbon-Black on Endpoint Detection & Response ("EDR"). (2022 - 2024)
